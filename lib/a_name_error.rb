@@ -1,3 +1,3 @@
-"hello world"
+hello_word = "hello world"
 
 puts hello_world
