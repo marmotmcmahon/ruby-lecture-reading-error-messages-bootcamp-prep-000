@@ -1,3 +1,3 @@
-hello_word = "hello world"
+"hello world"
 
-puts hello_world
+hello_world
